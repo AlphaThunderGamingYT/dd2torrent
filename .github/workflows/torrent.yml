@@ -9,7 +9,7 @@ env:
   comment: "spongebob game"
   url: "https://download131.uploadhaven.com/1/application/zip/lh1eX4RpuOuetzjgjSO7msztNPIm4B2sx5Ss26x7.zip?key=reueyACnyCtulwRFHNZDvQ&expire=1705732217&filename=SpongeBob.SquarePants.The.Cosmic.Shake.v1.0.5.0.Incl.ALL.DLC.zio"
   file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 2^22 # Check the README.md for recommended piece size
       
 jobs:
   create:
